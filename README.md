@@ -6,8 +6,9 @@ Empirically captured single-frame image set for benchmarking movement (motion bl
 ## Dataset
 *Dataset (minimal): https://doi.org/10.34740/kaggle/dsv/13096999*
 
-*Paper1: under review*
+*Paper1: under review*  
+https://github.com/nonsakhoo/Movement-Artifact-Quantification
 
 *Paper2: https://doi.org/10.3390/s25247487*
 
-*Note: This repository will be updated soon.*
+*Note: This repository will be updated once both papers are published..*
