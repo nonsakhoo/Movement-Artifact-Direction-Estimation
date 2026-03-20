@@ -1,7 +1,9 @@
 # Movement-Artifact-Direction-Estimation
 Empirically captured single-frame image set for benchmarking movement (motion blur) artifact direction estimation and weighted magnitude quantification. Each image contains a single dark circular object translated during exposure over a white background, producing controllable linear blur governed by (orientation pair, velocity).
 
-## This source code is still waiting for another paper for publication. It will be officially released after acceptance/publication.
+<img src="sensors-25-07487-g004.png" width="75%" alt="made-example-figure-1" />
+
+## This source code is still waiting for another paper for publication. It will be officially released after publication.
 
 
 *Paper1 (MAPE/ROPE/MAQ): under review*  
@@ -12,3 +14,5 @@ Empirically captured single-frame image set for benchmarking movement (motion bl
 *Dataset (minimal): https://doi.org/10.34740/kaggle/dsv/13096999*  
 
 *Note: This repository will be updated once both papers are published..*
+
+<img src="sensors-25-07487-g003.png" width="75%" alt="made-example-figure-1" />
